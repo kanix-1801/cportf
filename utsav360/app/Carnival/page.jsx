@@ -1,8 +1,9 @@
 import React from 'react'
+import Main from '../../Components/Main.jsx'
 
 let carnival = ()=>{
   return(<>
-  <h1>carnival</h1>
+  <Main />
   </>)
 }
 
